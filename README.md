@@ -5,7 +5,7 @@
 
 - I’m currently learning **front end and general web development**
 
-- Here are some of my games: [livedierespwn.itch.io/](https://livedierespwn.itch.io/)
+- Here are some of my games: [livedierespwn.itch.io](https://livedierespwn.itch.io/)
 
 - Here is some sample code for a few of these games: [drive.google.com](https://drive.google.com/drive/folders/1LF17soiMu52ZJSZMeoAKgQUZI0f-2Ox8?usp=drive_link)
 
