@@ -9,6 +9,8 @@
 
 - Here is some sample code for a few of these games: [drive.google.com](https://drive.google.com/drive/folders/1LF17soiMu52ZJSZMeoAKgQUZI0f-2Ox8?usp=drive_link)
 
+- Here is a demo for a a React-based fashion media project called Trendr: [drive.google.com](https://drive.google.com/file/d/1ACk-GYsaw_TCvHEVL8PlNVvQ58oJBy3_/view?usp=sharing)
+
 - Here is my website: [apartmentlhub.com](https://apartmentlhub.com/)
 
 <h3 align="left">Languages and Tools:</h3>
